@@ -1,3 +1,4 @@
+#WAS TO CRATE LIST USING UDF Createlist().COUNT AND PRINT EVEN AND ODD NO. USINF UDF evenodd().
 def evenodd(list):
     evenlist=[]
     oddlist=[]
